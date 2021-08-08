@@ -1,0 +1,20 @@
+
+.header {
+    &__container {
+        height: 95px;
+        background-image: url(/img/Background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    &__tittle {
+        font-family:  sans-serif;
+        color:white;
+        font-size: 40px;
+        line-height: 0.5;
+        letter-spacing:-2px;
+        font-weight: normal;
+        padding: 37px 23px;
+        text-shadow: 2px 2px 2px #090A00;
+    }
+}
